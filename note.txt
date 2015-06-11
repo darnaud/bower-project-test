@@ -1,0 +1,2 @@
+.bowerrc : tells bower in which directory to install files
+bower.json: tells bower which  packages are needed
