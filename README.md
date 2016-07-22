@@ -1,2 +1,2 @@
 # bower-project-test
-Experimenting managing front-end resources with Bower package manager
+Experimenting front-end resource management with Bower
